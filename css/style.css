@@ -85,7 +85,11 @@ main{
 .footer-img{
     text-align: center;
 }
-
+.icone{
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+}
 .copyright{
     text-align: center;
     font-size: 35px;
